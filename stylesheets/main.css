@@ -19,7 +19,7 @@
     position: absolute;
     top: 40px;
     left: 36px;
-    font-family: Founders Grotesk Test;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: Regular;
     font-size: 24px;
     opacity: 1;
@@ -31,7 +31,7 @@
     position: absolute;
     top: 201px;
     left: 362px;
-    font-family: Founders Grotesk Test;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: Regular;
     font-size: 24px;
     opacity: 1;
@@ -43,7 +43,7 @@
     position: absolute;
     top: 40px;
     left: 362px;
-    font-family: Founders Grotesk Test;
+    font-family: 'IBM Plex Mono', monospace;
     font-weight: Regular;
     font-size: 36px;
     opacity: 1;
@@ -95,7 +95,7 @@
   .v4_7 {
     width: 722px;
     height: 542px;
-    background: url("images/v4_7.png");
+    background: url("/images/v4_7.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
