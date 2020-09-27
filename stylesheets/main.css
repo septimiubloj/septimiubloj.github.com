@@ -19,9 +19,9 @@
     position: absolute;
     top: 40px;
     left: 36px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: Regular;
-    font-size: 24px;
+    font-size: 20px;
     opacity: 1;
     text-align: left;
   }
@@ -31,9 +31,9 @@
     position: absolute;
     top: 201px;
     left: 362px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: Regular;
-    font-size: 24px;
+    font-size: 20px;
     opacity: 1;
     text-align: left;
   }
@@ -43,7 +43,7 @@
     position: absolute;
     top: 40px;
     left: 362px;
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: Regular;
     font-size: 36px;
     opacity: 1;
